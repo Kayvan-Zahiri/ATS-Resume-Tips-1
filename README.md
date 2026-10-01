@@ -315,6 +315,7 @@ Harika_Lankalapalli_Resume.pdf
 
 * Resume Worded
 * Jobscan
+* [ResumeAI](https://withresumeai.com/) — free ATS checker (3/day anonymous, 10/day free account; State of ATS 2026 — Workday 37.9%)
 * LinkedIn Resume Builder
 * Canva Resume Templates
 * Microsoft Resume Templates
@@ -335,4 +336,4 @@ Contributions, suggestions, and improvements are welcome. Feel free to fork this
 
 ## Author
 
-Created for students, job seekers, and professionals who want to build ATS-friendly resumes and increase their chances of getting shortlisted in modern recruitment processes.
+Created for students, job seekers, and professionals who want to build ATS-friendly resumes and increase your chances of getting shortlisted in modern recruitment processes.
